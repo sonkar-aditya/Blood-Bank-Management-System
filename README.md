@@ -1,8 +1,6 @@
 # Blood Bank Management System
 Developer Name: Aditya Sonkar
 ---
-## Screenshots
-### Homepage
 ![homepage snap](https://github.com/adityasonkar1503/bloodbankmanagement/blob/master/static/screenshot/homepage.png?raw=true)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/adityasonkar1503/bloodbankmanagement/blob/master/static/screenshot/admindashboard.png?raw=true)
